@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning ReactJS, NextJS and NodeJS<br><br>💬 Ask me about HTML, CSS and JavaScript<br><br>⚡ Fun fact I love kids and i'm very friendly</p>
+<p align="left">🌱 I’m currently learning NestJS, Flutter and Python<br><br>💬 Ask me about React, NextJS and TypeScript<br><br>⚡ Fun fact I love kids and i'm very friendly</p>
 
 ###
 
